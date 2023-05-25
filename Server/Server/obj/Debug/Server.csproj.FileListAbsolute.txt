@@ -1,0 +1,12 @@
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\bin\Debug\Server.exe.config
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\bin\Debug\Server.exe
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\bin\Debug\Server.pdb
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\bin\Debug\MySql.Data.dll
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\bin\Debug\PEProtocol.dll
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\bin\Debug\PESocket.dll
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\bin\Debug\PEProtocol.pdb
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\obj\Debug\Server.exe
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\obj\Debug\Server.pdb
+H:\Jwp\Unity\ResDarkGod\Last\Server\Server\obj\Debug\Server.csproj.CopyComplete

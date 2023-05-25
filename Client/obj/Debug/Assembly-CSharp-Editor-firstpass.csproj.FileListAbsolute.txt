@@ -1,0 +1,2 @@
+H:\Jwp\Unity\ResDarkGod\Last\Client\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+H:\Jwp\Unity\ResDarkGod\Last\Client\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
